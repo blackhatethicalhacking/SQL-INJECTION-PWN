@@ -15,7 +15,9 @@ Its from my personal collection library as part of a methodology that allows qui
 # Requirements
 
 apt-get install figlet
+
 apt-get install xcowsay
+
 apt-get install toilet
 
 
