@@ -20,6 +20,7 @@ apt-get install xcowsay
 
 apt-get install toilet
 
+Tested on Kali Linux 2021 - Can be used on various Linux Distros 
 
 # Usage
 
