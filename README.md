@@ -28,5 +28,15 @@ chmod +x sqlinjectionpwn.sh
 
 ./sqlinjectionpwn.sh 
 
+# DEMO
+
+[![asciicast](https://asciinema.org/a/T90JCtxWXWxQJpvIgalt4UFEP.svg)](https://asciinema.org/a/T90JCtxWXWxQJpvIgalt4UFEP)
+
+
+# Support
+
+You can Support our Work by Joining our Patreon for Exclusive Video Content:
+
+https://www.patreon.com/blackhatethicalhacking
 
 **Black Hat Ethical Hacking - Copyrights all rights reserved - blackhatethicalhacking.com**
