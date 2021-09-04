@@ -18,6 +18,8 @@ apt-get install figlet
 
 apt-get install xcowsay
 
+pip install lolcat
+
 apt-get install toilet
 
 Tested on Kali Linux 2021 - Can be used on various Linux Distros 
