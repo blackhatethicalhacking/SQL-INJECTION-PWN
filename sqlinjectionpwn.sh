@@ -18,14 +18,8 @@ xcowsay blackhatethicalhacking.com
 #evasion techniques for quick scan and identification of issues, it will automatcially answer all 
 #questions with Yes so it can go fast like lighting
 # Matrix effect
-echo "Exiting the Matrix for 5 seconds in:" | toilet --metal -f term -F border
-sleep 1
-echo "3" | toilet --gay -f term -F border
-sleep 1
-echo "2" | toilet --metal -f term -F border
-sleep 1
-echo "1" | toilet --gay -f term -F border
-sleep 1
+echo "Exiting the Matrix for 5 seconds:" | toilet --metal -f term -F border
+
 
 R='\033[0;31m'
 G='\033[0;32m'
